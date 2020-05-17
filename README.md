@@ -1,4 +1,4 @@
-# Distribuidos
+# Sistemas distribuidos
 Prueba de conceptos
 
 ## Tecnologías:
