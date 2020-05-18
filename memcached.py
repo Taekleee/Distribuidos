@@ -25,3 +25,13 @@ if result is None:
     client.set('consulta2', result)
 
 print(result)
+
+'''
+Ejemplos de consultas:
+list1 = [1,2,3]
+
+client.set("Ejemplo",list1)
+client.set("Ejemplo", "timepo", 3600) 
+
+
+'''
